@@ -1,6 +1,6 @@
-# Ahmad Abdullah
+## Ahmad Abdullah
 
-**Full-Stack Developer**  
+**Full Stack AI Engineer**  
 Pakistan • Open to Remote Roles
 
 [LinkedIn](https://linkedin.com/in/ahmadabdullahqureshi)
@@ -14,15 +14,16 @@ AI-assisted support ticket triage app built with **FastAPI, PostgreSQL, React, a
 - Uses JWT authentication, role-based access, and a 3-table PostgreSQL schema with SQL filtering and analytics.
 - Integrates the Gemini API with Pydantic validation to categorize tickets and draft responses, backed by a `pytest` suite.
 
-**[Intent-Seek](https://github.com/ahmadabdu11ah/intent-seek)**  
+**[Intent-Aware Semantic Search Engine](https://github.com/ahmadabdu11ah/intent-seek)**  
 Semantic search engine built with **MongoDB, Express, React, Node.js, Transformers.js, and LangChain**.
 - Chunks documents and generates vector embeddings (`all-MiniLM-L6-v2`) to rank search results by cosine similarity instead of exact keyword matching.
 
 #
 
-### Tech Stack
+### Technical Skills
 
-- **Frontend:** React, Tailwind CSS, JavaScript (ES6+), HTML/CSS
-- **Backend:** Python (FastAPI), Node.js, Express, REST APIs, JWT Auth
-- **Databases:** PostgreSQL, MongoDB, SQLAlchemy
-- **Tools & Testing:** Git, GitHub, Pytest, Postman, Vercel, Render, Supabase
+- **Languages:** TypeScript, JavaScript (ES6+), Python (3.11+), SQL, HTML5, CSS3
+- **Frameworks:** React.js, Next.js, FastAPI, Node.js, Express.js, Tailwind CSS
+- **Databases:** PostgreSQL, MongoDB, Supabase
+- **Tools & Libraries:** Git, GitHub, GitHub Actions, Docker, Pytest, SQLAlchemy, Pydantic, PyJWT, LangChain,
+Transformers.js, Google GenAI SDK, Postman, Linux, Vercel, Render
